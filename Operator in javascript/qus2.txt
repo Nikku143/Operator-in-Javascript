@@ -1,0 +1,5 @@
+Describe the usage of the comma operator in JavaScript and provide an example.
+
+ans:-
+
+Because commas have the lowest precedence — even lower than assignment — commas can be used to join multiple assignment expressions. In the following example, a is set to the value of b = 3 (which is 3). Then, the c = 4 expression evaluates and its result becomes the return value of the entire comma expression.
